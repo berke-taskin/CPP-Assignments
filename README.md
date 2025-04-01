@@ -1,1 +1,2 @@
-C++ Assignments using Data Structures
+# C++ Assignments
+Using Data Structures
